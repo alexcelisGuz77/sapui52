@@ -1,0 +1,84 @@
+{
+    "Invoices":[
+    {
+        "productName": "Espada Motocierra",
+        "Quantity": 300,
+        "ExtendedPrice": 10000,
+        "ShipperName": "IMP.humanidad",
+        "ShippedDate": "2031-04-01T00:00:00",
+        "Status" : "B"
+    },
+    {
+        "productName": "Martillo Gravitatorio",
+        "Quantity": 20,
+        "ExtendedPrice": 20000,
+        "ShipperName": "Forerunner",
+        "ShippedDate": "2019-04-01T00:00:00",
+        "Status" : "A"
+    },
+    {
+        "productName": "Lancer",
+        "Quantity": 10000,
+        "ExtendedPrice": 5000,
+        "ShipperName": "C.O.G.",
+        "ShippedDate": "2019-12-12T00:00:00",
+        "Status" : "C"
+    },
+    {
+        "productName": "ROCKETMAN ",
+        "Quantity": 1,
+        "ExtendedPrice": 5000,
+        "ShipperName": "SEDENA",
+        "ShippedDate": "2015-08-09T00:00:00",
+        "Status" : "B"
+    },
+    {
+        "productName": "Lanzallamas",
+        "Quantity": 50,
+        "ExtendedPrice": 5000.05,
+        "ShipperName": "SEDENA",
+        "ShippedDate": "2011-01-01T00:00:00",
+        "Status" : "C"
+    },
+    {
+        "productName": "UNIDAD PANZER",
+        "Quantity": 500,
+        "ExtendedPrice": 500,
+        "ShipperName": "SEDENA",
+        "ShippedDate": "1937-06-01T00:00:00",
+        "Status" : "A"
+    },
+    {
+        "productName": "Martillo del Alva",
+        "Quantity": 3,
+        "ExtendedPrice": 10000,
+        "ShipperName": "C.O.G.",
+        "ShippedDate": "1999-05-05T00:00:00",
+        "Status" : "A"
+    },
+    {
+        "productName": "Externminatus",
+        "Quantity": 1,
+        "ExtendedPrice": 1000,
+        "ShipperName": "IMP.humanidad",
+        "ShippedDate": "2041-01-05T00:00:00",
+        "Status" : "B"
+    },
+    {
+        "productName": "Bases Halo",
+        "Quantity": 8,
+        "ExtendedPrice": 8000,
+        "ShipperName": "Forerunner",
+        "ShippedDate": "2041-09-11T00:00:00",
+        "Status" : "C"
+    },
+    {
+        "productName": "Omnitrix",
+        "Quantity": 3,
+        "ExtendedPrice": 1000,
+        "ShipperName": "Plomeros",
+        "ShippedDate": "2010-11-11T00:00:00",
+        "Status" : "A"
+    }
+    ]
+}
